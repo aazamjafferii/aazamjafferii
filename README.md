@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aazamjafferii
-- 👀 I’m interested in PHP Coding & Gaming.
+- 👀 I have interest in PHP Coding & Gaming.
 - 🌱 I’m currently learning everything tech related.
 - 💞️ I’m looking to collaborate on PHP projects & Game testing.
 - 📫 Contact me thru LinkedIn or Email. :)
